@@ -12,7 +12,7 @@ window.addEventListener('load', function() {
         }
 
         try {
-            document.getElementsByClassName("_99b399f6f9ba")[0].remove()
+            document.getElementsByClassName("_57ffabb27526")[0].remove() //update_06-05-22
         } catch (error) {
             console.log("no over-page ads found")
         }
